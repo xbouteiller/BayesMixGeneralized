@@ -6,4 +6,4 @@ More specifically, in the .R file, you can find code for Bayesian Mixed Models i
 - Poisson distribution
 - Negative Binomial distribution
 
-> This code is used for a journal article currently submitted
+> This code is used in an article currently submitted to peer-reviewed journal
